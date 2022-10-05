@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-family: 'Qatar2022 Arabic Bold';
+    font-size: 3rem;
+    color: brown;
+}
+
+.seccion {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.seccion img {
+    width: 50rem;
+}
